@@ -30,7 +30,7 @@ You can access my resume PDF here:
 
 ## 🔗 Connect with Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/sakshimalkar]([https://www.linkedin.com/in/sakshimalkar](https://www.linkedin.com/in/sakshi-malkar/))  
+- **LinkedIn:** [https://www.linkedin.com/in/sakshimalkar]((https://www.linkedin.com/in/sakshi-malkar/))  
 - **GitHub:** [https://github.com/sakshimalkar](https://github.com/sakshimalkar)  
 
 ---
