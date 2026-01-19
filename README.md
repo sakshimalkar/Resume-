@@ -24,7 +24,7 @@ The PDF includes details about:
 ## 📥 Download
 
 You can access my resume PDF here:  
-[Download Resume](https://github.com/sakshimalkar/Resume-/blob/main/Resume.pdf?raw=true)
+[Download Resume](https://sakshimalkar.github.io/Resume-/)
 
 ---
 
